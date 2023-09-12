@@ -1,0 +1,24 @@
+[
+    {
+        "question": "Tokyo is the capital of which country?",
+        "options": [
+            "Nepal",
+            "Japan",
+            "Korea",
+            "USA"
+        ],
+        "correct_answer": 2,
+        "correct": 0
+    },
+    {
+        "question": "Where is Mt. Everest located?",
+        "options": [
+            "Nepal",
+            "Japan",
+            "Korea",
+            "USA"
+        ],
+        "correct_answer": 1,
+        "correct": 0
+    }
+]
